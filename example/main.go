@@ -1,11 +1,9 @@
 package main
 
 import (
-	"github.com/johnny-john/banner"
+	"github.com/hifx/banner"
 )
 
 func main() {
-	banner.Print("abcdefghijkl")
-	banner.Print("mnopqrstuvwxyz")
-	banner.Print("1234567890?-_.")
+	banner.Print("hifx")
 }

@@ -2,15 +2,16 @@ package banner
 
 import (
 	"fmt"
-	"github.com/johnny-john/banner/fonts"
 	"strings"
+
+	"github.com/hifx/banner/fonts"
 )
 
 var joker = `
- ___ 
+ ___
 / _ \
 \// /
-  \/ 
+  \/
   ()
 `
 
